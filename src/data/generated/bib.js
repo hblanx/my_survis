@@ -22,17 +22,15 @@
         "volume": "31",
         "year": "2023"
     },
-    "birhane_2023_science": {
-        "author": "Birhane, Abeba and Kasirzadeh, Atoosa and Leslie, David and Wachter, Sandra",
-        "doi": "10.1038/s42254-023-00581-4",
-        "journal": "Nature Reviews Physics",
-        "month": "05",
-        "pages": "277\u2013280",
-        "title": "Science in the age of large language models",
+    "bender_2021_on": {
+        "author": "Bender, Emily and McMillan-Major, Angelina and Shmitchell, Shmargaret and Gebru, Timnit",
+        "doi": "10.1145/3442188.3445922",
+        "journal": "FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+        "month": "03",
+        "pages": "610-623",
+        "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
         "type": "article",
-        "url": "https://www.nature.com/articles/s42254-023-00581-4",
-        "volume": "5",
-        "year": "2023"
+        "year": "2021"
     },
     "gao_2024_large": {
         "author": "Gao, Chen and Lan, Xiaochong and Li, Nian and Yuan, Yuan and Ding, Jingtao and Zhou, Zhilun and Xu, Fengli and Li, Yong",
